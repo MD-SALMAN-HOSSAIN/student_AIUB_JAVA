@@ -1,0 +1,8 @@
+class main
+{
+	public static void main(String arg[])
+	car c1 = new car("privet car","BMW","10");
+	c1 showInformation();
+	};
+}
+	
